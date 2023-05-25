@@ -23,6 +23,7 @@ import com.shashi.service.impl.ProductServiceImpl;
 public class AddProductSrv extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
+	private safjfs=afskj;
 	private static final long sss=12;
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
