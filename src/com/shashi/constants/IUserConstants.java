@@ -9,4 +9,5 @@ public interface IUserConstants {
 	public String COLUMN_ADDRESS = "address";
 	public String COLUMN_PINCODE = "pincode";
 	public String COLUMN_PASSWORD = "password";
+	public String NAME = "The great one";
 }
